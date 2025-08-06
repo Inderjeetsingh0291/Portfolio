@@ -14,7 +14,7 @@ const Hero = () => {
           <TypeAnimation
       sequence={[
         // Start with the initial string.
-        'Inderjeet Singh',
+        'Inderjeet Singh saini',
         // Wait 1 second...
         1000,
         //...then delete it.
